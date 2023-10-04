@@ -1,4 +1,4 @@
-# Excel-Projects
+# Bike Sales Analysis Excel-Projects
 Here we have a dataset showing the informations of customers including their Marital Status, Gender , Income ,Children, Education, Occupation, Home Owner, Cars,	Commute Distance,	Region,	Age, and at the end it clarifies whether the customers have bought the bike or not.
 Based on these data we can extract useful insights around which factors lead the customers to buy a bike or with which characteristics they are mostly potential to avoid bikes.
 ## Data Cleaning
